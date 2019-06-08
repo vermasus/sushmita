@@ -1,0 +1,4 @@
+users={}
+users['name']=input("Enter your name: ")
+
+print(users)
